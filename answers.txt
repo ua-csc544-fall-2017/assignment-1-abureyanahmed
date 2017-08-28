@@ -1,1 +1,8 @@
 1. This course is related to my research interest.
+2. Different kind of visualization techniques like scatter plot, histogram, pie chart and more advanced ones. Also their application in information visualization, scientific visualization and other fields.
+3. C++, java, python, javascript.
+4. javascript
+5. Yes, histogram and scatterplot.
+6. MNIST database, python.
+7. Periodic table, its very informative.
+8. 
