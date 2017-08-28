@@ -2,7 +2,13 @@
 2. Different kind of visualization techniques like scatter plot, histogram, pie chart and more advanced ones. Also their application in information visualization, scientific visualization and other fields.
 3. C++, java, python, javascript.
 4. javascript
-5. Yes, histogram and scatterplot.
+5. Yes, histogram and scatter plot.
 6. MNIST database, python.
 7. Periodic table, its very informative.
-8. 
+8. Some from viz.wtf. They are ambiguous and less informative.
+9. I have experience in javascript. I think I will be in 70-80% at least.
+10. Not that strong in mathematics. May be 60-70%.
+11. I do not use it regularly but I am aware of it. For large projects it is very useful.
+12. I have some experience, used it for 2-3 projects.
+13. Its an online repository for git. Used it in 2-3 projects.
+14. I have watched the TV series "Cosmos: A Spacetime Odyssey" presented by Neil deGrasse Tyson. It's really interesting. Explained most of the scientific events very nicely.
